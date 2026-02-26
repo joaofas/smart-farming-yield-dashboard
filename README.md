@@ -70,7 +70,7 @@ Dataset: `Smart_Farming_Crop_Yield_2024.csv`
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 
