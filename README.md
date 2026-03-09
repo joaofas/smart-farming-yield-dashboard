@@ -1,6 +1,5 @@
 # 🌾 Smart Farming - Crop Yield Dashboard
 
-This is my first Power BI dashboard, developed as a learning project focused on agricultural data analysis and data visualization.
 
 Power BI dashboard for crop yield analysis using smart farming sensor data.
 
